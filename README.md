@@ -60,7 +60,7 @@ Every feature required new branch. After feature completed, you should open Pull
 
 This is recommended workflow and should be applied to all features, except hot-fixes (some major bug, which affect systems operability dramatically).
 
-### Servers list
+### Servers List
 ```
 Dev: ssh -i path/to/provencompany.pem ubuntu@54.183.80.177
 Prod: ssh -i path/to/provencompany.pem ubuntu@52.9.155.120
