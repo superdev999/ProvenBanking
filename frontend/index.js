@@ -9,6 +9,6 @@ import 'script!jquery-validation/dist/jquery.validate.js';
 function init() {
     initClients();
 }
-
+ 
 
 init();
